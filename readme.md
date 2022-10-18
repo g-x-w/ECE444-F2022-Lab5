@@ -1,4 +1,6 @@
 Gary Wei
+Jondy Chen
+
 
 This repo is a clone of the https://github.com/nelaturuk/education_pathways
 
