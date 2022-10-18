@@ -1,3 +1,6 @@
+Gary Wei
+This repo is a clone of the https://github.com/nelaturuk/education_pathways
+
 # CARTE Education Pathways
 
 ## Description
