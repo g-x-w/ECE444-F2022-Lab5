@@ -21,6 +21,18 @@ Results Page - Results Table
 
 ## Activity 6:
 
+![us1.png](us1.png)
+
+![design1.png](design1.png)
+
+![us2.png](us2.png)
+
+![design2.png](design2.png)
+
+![us3.png](us3.png)
+
+![design3.png](design3.png)
+
 # CARTE Education Pathways
 
 ## Description
