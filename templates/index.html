@@ -8,7 +8,7 @@
 </head>
 <body>
 <a href="https://carte.utoronto.ca/" target="_blank"><img src="/static/CARTE_logo.jpg" class="img-fluid" style="max-width: 25%"></a>
-<div class="common-page-heading-container">style="text-align: center"
+<div class="common-page-heading-container">
     <h1>Education Pathways</h1>
 </div>
 
@@ -20,7 +20,7 @@
 
 <h3>Search for Courses</h3>
 {% from "_formhelpers.html" import render_field %}
-<form class="common-form-page" method="post">
+<form class="common-page-form" method="post">
   <dl>
     {{ render_field(form.select) }}
     <p>
